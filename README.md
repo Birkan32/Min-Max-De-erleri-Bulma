@@ -1,2 +1,2 @@
-# Min-Max-De-erleri-Bulma
+# Min-Max-Degerleri-Bulma
 Patika Ödevi
